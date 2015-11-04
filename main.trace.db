@@ -1,0 +1,12 @@
+2015-11-04 11:43:37 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EVENTS" not found; SQL statement:
+SELECT * FROM events [42102-190]
+2015-11-04 11:43:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EVENTS" not found; SQL statement:
+SELECT * FROM events [42102-190]
+2015-11-04 11:43:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EVENTS" not found; SQL statement:
+SELECT * FROM events [42102-190]
+2015-11-04 11:43:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "EVENTS" not found; SQL statement:
+SELECT * FROM events [42102-190]
